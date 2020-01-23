@@ -5,8 +5,10 @@
 ## Usage
 
 ```bash
-docker pull yakimka/docker-and-compose
+docker pull yakim/docker-and-compose
 ```
+
+[Docker Hub](https://hub.docker.com/r/yakim/docker-and-compose)
 
 ## CI
 
